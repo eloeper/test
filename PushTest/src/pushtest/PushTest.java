@@ -18,6 +18,7 @@ public class PushTest {
     {
         // TODO code application logic here
         System.out.println("Yo dawg");
+        System.out.println("█");
     }
     
 }
